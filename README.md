@@ -42,12 +42,16 @@ Each location can add any notes or personal observations or vote in which collec
 
 ## Screenshot
 
-- Home [screenshot-pic](https://github.com/ElyCano/Tech-Blog/blob/main/__tests__/Home.jpg?raw=true).
-- Dashboard [screenshot-pic](https://github.com/ElyCano/Tech-Blog/blob/main/__tests__/Dashboard.jpg?raw=true).
-- Login [screenshot-pic](https://github.com/ElyCano/Tech-Blog/blob/main/__tests__/Login.jpg?raw=true).
-- Sign Up [screenshot-pic](https://github.com/ElyCano/Tech-Blog/blob/main/__tests__/SignUp.jpg?raw=true).
-- Entry SQL DB [screenshot-pic](https://github.com/ElyCano/Tech-Blog/blob/main/__tests__/post_sql_bd.jpg?raw=true).
-- User SQL DB [screenshot-pic](https://github.com/ElyCano/Tech-Blog/blob/main/__tests__/user_sql_bd.jpg?raw=true).
+- Home [screenshot-pic](https://github.com/ElyCano/partydreams-lost-sales-entries/blob/main/public/images/Homepage.png?raw=true).
+- Dashboard [screenshot-pic](https://github.com/ElyCano/partydreams-lost-sales-entries/blob/main/public/images/Dashboard.png?raw=true).
+- Login [screenshot-pic](https://github.com/ElyCano/partydreams-lost-sales-entries/blob/main/public/images/Login.png?raw=true).
+- Sign Up [screenshot-pic](https://github.com/ElyCano/partydreams-lost-sales-entries/blob/main/public/images/signup.png?raw=true).
+- Entry SQL DB [screenshot-pic](https://github.com/ElyCano/partydreams-lost-sales-entries/blob/main/public/images/User%20Entries%20SQL%20DB.png?raw=true).
+- User SQL DB [screenshot-pic](https://github.com/ElyCano/partydreams-lost-sales-entries/blob/main/public/images/User%20SQL%20DB.png?raw=true).
+
+- User Comments SQL DB [screenshot-pic](https://github.com/ElyCano/partydreams-lost-sales-entries/blob/main/public/images/User%20Comments%20SQL%20DB.png?raw=true).
+
+- User Votes SQL DB [screenshot-pic](https://github.com/ElyCano/partydreams-lost-sales-entries/blob/main/public/images/User%20votes.png?raw=true).
 
 ## Table of Contents
 
