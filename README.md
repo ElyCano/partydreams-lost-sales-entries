@@ -38,7 +38,7 @@ Each location can add any notes or personal observations or vote in which collec
 
 ## Deployed App Link Heroku
 
-- [Deployed Link ]()
+- [Deployed Link ](https://partydreams-lost-sales-entries.herokuapp.com/)
 
 ## Screenshot
 
